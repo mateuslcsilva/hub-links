@@ -175,6 +175,10 @@ transition: .1s ease;
  font-size: 16pt;
 }
 
+.tutorial-box, link-box{
+ padding: 12px;
+}
+
 .box-container{
  width: 90%;
 }
